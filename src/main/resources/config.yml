@@ -1,0 +1,5 @@
+worlds:
+  - creative_world
+  - arena_world
+
+interval-seconds: 300

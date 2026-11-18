@@ -1,0 +1,7 @@
+name: clearlag
+version: '${version}'
+main: com.centers25.clearlag.ClearLagPlugin
+api-version: '26.2'
+author: centers25
+description: Periodically removes dropped items in configured worlds.
+depend: [plugincore]
